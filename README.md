@@ -1,16 +1,13 @@
-## Hi there 👋
+## Cách nấu bún bò
 
-<!--
-**cachnaubunbo/cachnaubunbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bún bò được mệnh danh là 1 trong 50 món ăn ngon nhất thế giới. Để có được một tô bún bò chuẩn vị đặc sản Huế thơm ngon cần khá nhiều nguyên liệu, tưởng chừng cầu kỳ nhưng lại rất dễ làm. Cùng chúng tôi bắt tay vào bếp ngay theo công thức dưới đây nhé!
 
-Here are some ideas to get you started:
+#cachnaubunbo #cachnaubunbothomngon
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Website: https://cachnaubunbo.com
+
+https://vimeo.com/cachnaubunbo
+
+https://www.youtube.com/channel/UCUCvoxKUgyPVtbxtwIejnsQ
+
+https://www.twitch.tv/cachnaubunbo
